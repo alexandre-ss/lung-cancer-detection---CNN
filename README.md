@@ -1,1 +1,1 @@
-# lung-cancer-detection---CNN
+# lung-cancer-detection-CNN
